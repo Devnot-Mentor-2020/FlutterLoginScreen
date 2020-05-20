@@ -1,8 +1,7 @@
 # login_ui
 
 A new Flutter project.
-[alt text](https://github.com/[furkantopaloglu]/[
-FlutterLoginScreen]/images/[dev]/screen.jpg?raw=true)
+
 
 ## Getting Started
 
